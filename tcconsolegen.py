@@ -1,6 +1,6 @@
 def interpret(rgb, char):
   
-# the format that i'm looking to create is 8 hex number with a length of 2, without the 0x prefix
+# the format that i'm looking to create is 8 hex numbers with a length of 2, without the 0x prefix
 
     global chari
     chari = hex(char)
@@ -74,7 +74,7 @@ def generate(time, rgb, char):
 #   "generate(1, rgb, a)"
 #   
 #   this should output:
-#   61 ff ff ff 00 00 00
+#   61 ff ff ff 00 00 00 00
 #
 #   which outputs a white "a" on a black background.
   
