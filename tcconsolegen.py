@@ -62,7 +62,7 @@ def codes(rgb):
 
 def generate(time, rgb, char):
   
-#   this prints the machine code for the console in the game 'turing complete'
+#   this prints the machine code for the console in the game 'Turing Complete' by Stuffe
 #   each 8 bytes is 1 pixel
 #   this follows the format of
 #   -----------------------------------------------------------------------
